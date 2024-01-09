@@ -2,7 +2,7 @@
 your gateway to the fascinating world of sensor-based geoinformatics! 🛰️
 
 🚀 **About Us:**
-we are passionate about harnessing the power of sensors and geospatial information to drive innovation and make informed decisions. Our organization is dedicated to advancing the field of geoinformatics by integrating cutting-edge sensor technologies with spatial data analysis. Please check our website [GeoSense](https://www.geosense.uni-freiburg.de/)
+we are passionate about harnessing the power of sensors and geospatial information to drive innovation and make informed decisions. Our organization is dedicated to advancing the field of geoinformatics by integrating cutting-edge technologies with spatial data analysis. Please check our website [GeoSense](https://www.geosense.uni-freiburg.de/)
 
 🌍 **What We Do:**
 We focuse on developing and implementing sensor-based solutions for a variety of applications, ranging from environmental monitoring and precision agriculture to urban planning and disaster management. We believe in the transformative potential of geoinformatics to address real-world challenges and contribute to sustainable development.
