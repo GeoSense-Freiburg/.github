@@ -1,4 +1,4 @@
-## -->## Hi there, Welcome to GeoSense🌐
+## Hi there, Welcome to GeoSense🌐
 your gateway to the fascinating world of sensor-based geoinformatics! 🛰️
 
 🚀 **About Us:**
